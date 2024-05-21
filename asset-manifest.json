@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/overReact/static/css/main.662488e1.chunk.css",
+    "main.js": "/overReact/static/js/main.e4f8f3fb.chunk.js",
+    "main.js.map": "/overReact/static/js/main.e4f8f3fb.chunk.js.map",
+    "runtime~main.js": "/overReact/static/js/runtime~main.b328f1c1.js",
+    "runtime~main.js.map": "/overReact/static/js/runtime~main.b328f1c1.js.map",
+    "static/js/2.55c97d52.chunk.js": "/overReact/static/js/2.55c97d52.chunk.js",
+    "static/js/2.55c97d52.chunk.js.map": "/overReact/static/js/2.55c97d52.chunk.js.map",
+    "index.html": "/overReact/index.html",
+    "precache-manifest.49172f367c129fb1756e7fcdbc27df82.js": "/overReact/precache-manifest.49172f367c129fb1756e7fcdbc27df82.js",
+    "service-worker.js": "/overReact/service-worker.js",
+    "static/css/main.662488e1.chunk.css.map": "/overReact/static/css/main.662488e1.chunk.css.map",
+    "static/media/search.svg": "/overReact/static/media/search.b98b9440.svg"
+  }
+}
